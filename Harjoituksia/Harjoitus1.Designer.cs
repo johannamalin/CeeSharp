@@ -45,12 +45,13 @@
             // ButtonLabel
             // 
             this.ButtonLabel.AccessibleName = "ButtonLabel";
+            this.ButtonLabel.BackColor = System.Drawing.SystemColors.Menu;
             this.ButtonLabel.Location = new System.Drawing.Point(61, 74);
             this.ButtonLabel.Name = "ButtonLabel";
             this.ButtonLabel.Size = new System.Drawing.Size(111, 64);
             this.ButtonLabel.TabIndex = 1;
             this.ButtonLabel.Text = "Vaihda teksti";
-            this.ButtonLabel.UseVisualStyleBackColor = true;
+            this.ButtonLabel.UseVisualStyleBackColor = false;
             this.ButtonLabel.Click += new System.EventHandler(this.button1_Click);
             // 
             // OtsikkoLabel
