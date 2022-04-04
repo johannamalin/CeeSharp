@@ -90,7 +90,7 @@
             // 
             this.LaskeBT.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LaskeBT.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.LaskeBT.Location = new System.Drawing.Point(476, 37);
+            this.LaskeBT.Location = new System.Drawing.Point(181, 82);
             this.LaskeBT.Name = "LaskeBT";
             this.LaskeBT.Size = new System.Drawing.Size(102, 29);
             this.LaskeBT.TabIndex = 5;
